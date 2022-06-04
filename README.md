@@ -13,5 +13,4 @@ With the date filter in place, having additional conditions to filter for would 
 ## Challenge Summary
 Four more filters for the table holding the data were built by adding to the initial script for the homepage. Bootstrap was used to personalise the page, and the grid structure that Bootstrap employs enables for a responsive and well-organized webpage. The option to search comments for certain phrases might be implemented as a future feature. The ability to search for sightings that reported a "red" hue would be beneficial. 
 
-![IMAGES]([https://user-images.githubusercontent.com/83256206/137179614-36c933f7-cf52-439a-8d90-ab1b376bdc53.jpg](https://github.com/morriscomia/UFOs/tree/main/IMAGES))
-
+![IMAGES](https://github.com/morriscomia/UFOs/blob/8d6c558e98f89d8e0beb79b989c897d9c1805acc/IMAGES/HTML.png)
